@@ -1,2 +1,2 @@
-# rexz-website
-The documentation website of RexZ.
+### rexz-website
+- The documentation website of `RexZ`.
